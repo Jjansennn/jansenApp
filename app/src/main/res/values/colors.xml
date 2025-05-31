@@ -8,4 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="kuning">#FFFF00</color>
+    <color name="krim">#FFF6F9</color>
+    <color name="ungu">#6647A6</color>
+    <color name="abu">#615B72</color>
 </resources>
